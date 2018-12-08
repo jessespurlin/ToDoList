@@ -1,6 +1,8 @@
 # ToDoList
 A basic To-Do List
 
+Deployed at: https://jessespurlin.github.io/ToDoList/
+
 Enter text and hit enter to add a new item to the To Do List.
 When you've completed an item, click on it to cross it out.
 When you're just sick of looking at that thing you did, click the red X to delete it forever.
